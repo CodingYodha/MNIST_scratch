@@ -19,8 +19,6 @@ Keras is only used to download the MNIST dataset.
 
 ## Results
 
-Numbers below are printed in the notebook.
-
 | Metric | Value |
 |---|---|
 | Test accuracy | **98.17%** |
